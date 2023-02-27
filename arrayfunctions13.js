@@ -1,0 +1,10 @@
+let fruits=["apple","banana","mango","grapes"];
+console.log(fruits);
+fruits.push("watermelon");
+console.log(fruits);
+fruits.pop();
+console.log(fruits);
+fruits.unshift("watermelon");
+console.log(fruits);
+fruits.shift();
+console.log(fruits);
